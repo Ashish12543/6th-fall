@@ -1,5 +1,6 @@
 __pycache__/
 .venv/
+.venv*/
 .vscode/
 .zenflow/
 .zencoder/
@@ -7,6 +8,7 @@ __pycache__/
 *.db
 *.pickle
 *.log
+uploaded_videos/
 registered_faces/
 !yolo11n-pose.pt
 !yolov8n-pose.pt
