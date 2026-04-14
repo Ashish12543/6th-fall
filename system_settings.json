@@ -1,0 +1,13 @@
+{
+  "bot_token": "8671957961:AAGUSG7RSfsPqJjqjXyuJ3p0Sbt8Lc3SIHY",
+  "chat_id": "6966266256",
+  "message_cooldown_sec": 5,
+  "fall_confirm_window_sec": 10.0,
+  "preferred_camera": "0",
+  "max_people_to_track": 1,
+  "enable_telegram": true,
+  "enable_detection": true,
+  "enable_voice_alert": false,
+  "enable_wellness_monitoring": true,
+  "display_metrics_overlay": true
+}
